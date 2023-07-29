@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ikdelz
-- 👀 I’m interested in computer programming 
+- 👀 I’m interested in coding and web development 
 - 🌱 I’m currently learning computer science 
 - 📫 Join me on ig: @ikd.elz
 
