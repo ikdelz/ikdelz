@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ikdelz
 - 👀 I’m interested in software engineering
 - 🌱 I currently use the MERN Stack and PERN Stack
-- 📫 How to reach me email: ielyse119@gmail.com
+- 📫 How to reach me on email: ielyse119@gmail.com
 - ⚡ Fun fact: The first computer bug was actually a real bug?
