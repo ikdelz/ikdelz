@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @ikdelz
-- 👀 I’m interested in software engineering
-- 🌱 I currently use the MERN Stack and PERN Stack
+- 👋 Hi, I’m @ikdelz.
+- 👀 I’m interested in software engineering.
+- 🌱 I currently use HTML, CSS, and JS.
+- 🌱 ReactJs, MongoDB, PostgreSQL, NodeJs, ExpressJs developer
 - 📫 How to reach me on email: ielyse119@gmail.com
-- ⚡ Fun fact: The first computer bug was actually a real bug?
+- ⚡ Fun fact: The first computer bug was actually a real bug!
