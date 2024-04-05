@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ikdelz.
+- 👋 Hi, I’m Elise.
 - 👀 I’m interested in software engineering.
 - 🌱 I currently use HTML, CSS, and JS.
 - 🌱 ReactJs, MongoDB, PostgreSQL, NodeJs, ExpressJs developer
