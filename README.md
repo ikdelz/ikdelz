@@ -1,4 +1,3 @@
-[![MasterHead](https://gifdb.com/images/thumbnail/coding-skills-loading-dk68v8z0hevjpuiv.gif)]
 <h1 align="center">Hi there 👋, I'm Elise IRADUKUNDA</h1>
 <h4 align="center"><i>Breathing Life into Lines of Code with Passion.</i></h4>
 
