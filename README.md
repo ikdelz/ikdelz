@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Elise IRADUKUNDA</h1>
 <h4 align="center"><i>Breathing Life into Lines of Code with Passion.</i></h4>
-(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...")
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207..."/>
 
 - 🌱 I’m currently learning **NextJs and PostgreSQL**
 
