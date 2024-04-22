@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Elise IRADUKUNDA</h1>
+<h1 align="center">Hi there 👋, It's me Elise</h1>
 <h4 align="center"><i>Breathing Life into Lines of Code with Passion.</i></h4>
 
 - 🌱 I’m currently learning **NextJs and PostgreSQL**
