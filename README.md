@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **NextJs and PostgreSQL**
 
-- 👨‍💻 All of my projects are available at [elz.netlify.app](elz.netlify.app)
+- 👨‍💻 All of my projects are available on [Ma PortFolio](https://iradukunda-elise.vercel.app)
 
 - 💬 Ask me about **MERN Stack!**
 
