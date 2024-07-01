@@ -1,4 +1,4 @@
-<h1>Hi there 👋, It's me Elise</h1>
+<h1>Hi there 👋, It's me Élisée</h1>
 
 - 👨‍💻 All of my projects are available on [Ma PortFolio](https://iradukunda-elise.vercel.app)
 
